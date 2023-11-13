@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 05abeaf1c54012c479fe790d86e49926
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 2eba844a0b6a13a49b88febba6994d01
+  - enabled: 1
+    path: Assets/Scenes/lvl_home.unity
+    guid: 11cb1f410b4b9d64d9e57c3b9e4161f8
+  - enabled: 1
+    path: Assets/Scenes/lvl_0.unity
+    guid: e7c485af9576aa9429e8ddfaee3386c8
+  - enabled: 1
+    path: Assets/Scenes/lvl_1.unity
+    guid: 9817602e66a2f9649b016eb4495f65f8
+  - enabled: 1
+    path: Assets/Scenes/lvl_2.unity
+    guid: 2887002127f99dc4b9faf48cbad8c526
+  - enabled: 1
+    path: Assets/Scenes/lvl_3.unity
+    guid: 762e663fe8b8fb645b0a0decce93c7ff
+  - enabled: 1
+    path: Assets/Scenes/lvl_4.unity
+    guid: e6c2f7be98f696c4595b1b0bfdca1035
+  - enabled: 1
+    path: Assets/Scenes/lvl_5.unity
+    guid: e54207b762b7f934898b8038920859c2
+  - enabled: 1
+    path: Assets/Scenes/lvl_end.unity
+    guid: e007411922be5704794210715021a2d2
+  - enabled: 1
+    path: Assets/Scenes/lvl_tavern.unity
+    guid: 658fac1f04b5db64ab98f2a93e9c1d3f
+  - enabled: 1
+    path: Assets/Scenes/outro.unity
+    guid: c639fa679a4ff5a479c4bec3aa5d716e

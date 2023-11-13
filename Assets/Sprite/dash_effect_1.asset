@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: dash_effect_1
+  m_Rect:
+    serializedVersion: 2
+    x: 52.012913
+    y: 0
+    width: 50.960335
+    height: 60.93362
+  m_Offset: {x: 0.50692075, y: 1.5331888}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.50994736, y: 0.5251616}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    4d9a63909d5149e489b1a66d3d814b92: 21300002
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: deec086d27047444aba52237415c436d, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 105
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 41
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 280026002700230027002600250023002600220023002500240023002200210020001d001f001d0020001c001d001f001e001d001c001b0019001a0018001a0019001500180019001600180015001700160015000800090013000e00130009000c0013000e00120013000c001400080010001300100008001200100013000c00100012000d0010000c00110010000d0009000f000e000b000e000f000c000e000b000d000c000b000a0007000800090008000700060005000300040003000500000003000400010003000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 41
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 820
+      _typelessdata: 00000000000080be0000000000000000000000000ad7233ce17a94be0000000000000000000000000ad7233c713d8abe0000000000000000000000008fc2f5bc0ad7a3be000000000000000000000000295c8fbd000080be000000000000000000000000b81e05be9a9999be000000000000000000000000b81e05be0ad7a3be0000000000000000000000000ad7233d8fc2f5bc0000000000000000000000008fc2753dae4761be0000000000000000000000008fc2753d8fc2f5bc0000000000000000000000000ad7233dae4761be000000000000000000000000cdcccc3dcdcccc3d0000000000000000000000008fc2f53d8fc275bd0000000000000000000000005c8f423ecdcccc3d000000000000000000000000295c8f3d8fc2f5bc0000000000000000000000008fc2753d295c8f3d0000000000000000000000000000803e0ad7a3be0000000000000000000000000000803e8fc2753d0000000000000000000000008fc2f53d7b142ebe0000000000000000000000000ad7a33dae4761be0000000000000000000000008fc2753d0ad7a3be000000000000000000000000ae47e1bd0ad7a3bd000000000000000000000000ec51b8bd8fc2f5bd000000000000000000000000ec51b8bdae47e1bd000000000000000000000000ae47e1bd295c0fbe000000000000000000000000000080be0ad7a3bd000000000000000000000000000080be295c0fbe000000000000000000000000b81e85beae47e1bd0000000000000000000000008fc2f5bcec51b83d0000000000000000000000000ad7a3bd0ad7233c0000000000000000000000008fc2f5bc0ad7233c000000000000000000000000295c0fbe295c0f3e0000000000000000000000000ad723be295c0f3e0000000000000000000000007b142ebeae47e13d0000000000000000000000008fc2f53cec51383e0000000000000000000000000ad723bcb81e053e0000000000000000000000000ad7a33c295c0f3e000000000000000000000000cdccccbde17a943e000000000000000000000000ae47e1bde17a943e0000000000000000000000008fc2f5bd1f856b3e000000000000000000000000b81e05be713d8a3e000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 52.012913
+      y: 0
+      width: 50.960335
+      height: 60.93362
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 78, z: 100, w: 32}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

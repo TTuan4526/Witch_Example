@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: goblin_halberd_pain_0
+  m_Rect:
+    serializedVersion: 2
+    x: 34.076122
+    y: 28.07612
+    width: 47.89713
+    height: 63.887596
+  m_Offset: {x: 5.975313, y: 3.9800847}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.62475306, y: 0.56229824}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    fb605e1377dcf5e4e8d40e4b10fb6516: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: e753c52524eca7640b720625905f04d4, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 78
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 22
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 0e00020015000300150002000000150003000d00150000000c0015000d000b0015000c00130015000b00140013000b001200110010000f00100011000e0010000f0001000e000f00090001000f0002000e0001000000010009000d00000009000c000d0009000b000c0009000a000b00090008000a000900040008000900070008000400050007000400060005000400030002000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 22
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 440
+      _typelessdata: 0ad7a33c8fc275bd0000000000000000000000000000000000000000000000000000000000000000000000008fc2f5bc0000000000000000000000000ad7233c295c8fbd0000000000000000000000000ad7233e5c8f423e000000000000000000000000ec51383e52b89ebe000000000000000000000000ec51383e295c8fbd000000000000000000000000b81e053e52b89ebe000000000000000000000000cdcccc3db81e85be0000000000000000000000000ad7a33d295c8f3e0000000000000000000000000ad7a33d3d0a57be0000000000000000000000008fc2753dcdcc4cbe000000000000000000000000cdcc4c3d5c8f42be0000000000000000000000008fc2f53c295c8fbd0000000000000000000000008fc275bdec51b8be0000000000000000000000008fc2f5bd295c8f3e000000000000000000000000000080beec51b8be0000000000000000000000009a9999be0ad7a3bc0000000000000000000000009a9999be0ad7a3be0000000000000000000000000ad7a33db81e85be0000000000000000000000000ad7a33dae4761be0000000000000000000000008fc2753d9a9999be000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 34.076122
+      y: 28.07612
+      width: 47.89713
+      height: 63.887596
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 64, z: 100, w: 64}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

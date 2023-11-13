@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: skull_pain_1
+  m_Rect:
+    serializedVersion: 2
+    x: 290.02676
+    y: 51.076122
+    width: 132.93034
+    height: 123.897125
+  m_Offset: {x: 27.508066, y: 14.975312}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.70693594, y: 0.6208689}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    bbea24fd93b3a1542b246694e025223a: 21300002
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 6a35b6d054e32114bbe2c63a386df798, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 90
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 26
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 190018000c0017000c0018000b000c00170014000b00170015000b0014001600150014001100120003001100030010000100100003000f001000010005000f0001000e000f00050006000e000500130012000d0011000d00120010000d0011000f000d0010000e000d000f0006000d000e0004000d0006000c000d00040008000d000c000b0008000c000a0008000b00070008000a00090008000700010004000500060005000400030000000100020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 26
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 520
+      _typelessdata: ae4761bf7b142e3e0000000000000000000000003d0a57bf5c8f423e000000000000000000000000f6285cbf5c8f423e000000000000000000000000ae4761bf0ad7233e0000000000000000000000009a9919bfa470bd3e000000000000000000000000295c4fbf5c8f423e000000000000000000000000713d4abf7b142e3e00000000000000000000000014aec73e9a99193e000000000000000000000000713d8a3eb81e45bf00000000000000000000000014aec73ea470bdbe000000000000000000000000ae47613ea470bd3e000000000000000000000000e17a94bea470bd3e000000000000000000000000ec51b8bea470bd3e0000000000000000000000005c8f02bfb81e45bf000000000000000000000000713d4abf9a99193e00000000000000000000000085eb51bf8fc2f53d0000000000000000000000009a9959bf8fc2f53d000000000000000000000000ae4761bf9a99193e000000000000000000000000d7a370bf8fc2f53d000000000000000000000000d7a370bf85ebd1be000000000000000000000000295c8fbed7a3f03e0000000000000000000000008fc275be14aec73e0000000000000000000000008fc275beae47e13e000000000000000000000000c3f5a8bed7a3f03e0000000000000000000000005c8fc2bef628dc3e0000000000000000000000005c8fc2becdcccc3e000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 290.02676
+      y: 51.076122
+      width: 132.93034
+      height: 123.897125
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 384, z: 100, w: 128}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

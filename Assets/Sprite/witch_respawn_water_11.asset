@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: witch_respawn_water_11
+  m_Rect:
+    serializedVersion: 2
+    x: 1673.0267
+    y: 34.076122
+    width: 134.96034
+    height: 39.84776
+  m_Offset: {x: -19.969795, y: 6.468336}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.35203212, y: 0.6623262}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    6e6a917fe55fee54384c18f9c055b289: 21300022
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: db24578fb01e62d4f8c91e7c08e54f7a, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 87
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 27
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 0b0019001a0011001a001900090019000b001800110019000a0011001800040011000a00160004000a00080016000a001700160008001500040016001400040015000300040014001300110004000700110013000f001100070005000f0007000e0011000f000c0011000e00100011000c001200110010000c000d0005000f0005000d000e000d000c000b00080009000a0009000800070006000500000001000300040003000100020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 27
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 540
+      _typelessdata: 5ccfbf3e7bbaae3d0000000000000000000000007b54ab3ea41d3dbe00000000000000000000000014eec43e7b6eadbd000000000000000000000000c335a63e71900a3e0000000000000000000000007b54ab3e145b47be0000000000000000000000001fc5e83e9a3f9a3d000000000000000000000000cd0cca3e0a37ae3b000000000000000000000000f668d93e7b6eadbd0000000000000000000000000ad739bdec9d393d0000000000000000000000005c0f48bec3a228be0000000000000000000000000a5729be52651ebe000000000000000000000000d763f3beec0537bd00000000000000000000000033d3313f0a7799bb000000000000000000000000858b103f9af398bd000000000000000000000000e11a133f3d64d6bd000000000000000000000000858b103f3d64d6bd00000000000000000000000052585d3ff6d55bbe000000000000000000000000aee75f3f948487be000000000000000000000000aee75f3f488e7abe0000000000000000000000005ccfbf3ee12714be000000000000000000000000ec51ad3d71900a3e00000000000000000000000014ae6f3cb8c4853d00000000000000000000000014ae973b3d64d6bd0000000000000000000000000000b0bbec0537bd0000000000000000000000000a5729be33e032be0000000000000000000000007b9433be33e032be000000000000000000000000d763f3be948487be000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 1673.0267
+      y: 34.076122
+      width: 134.96034
+      height: 39.84776
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 1720.5371, z: 100, w: 60.468338}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

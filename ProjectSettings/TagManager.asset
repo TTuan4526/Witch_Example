@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - common
+  - enemy
+  - e_projectile
+  - misc
+  - dialog
+  - turnip
+  - brick
+  - end
+  - ground_check
+  - chunk
+  - chapter
+  - frostbolt
+  - lightning
+  - fireball
+  - collect_area
+  - room
+  - chest
+  - Data
+  - elemental_stone
+  - tip
+  - crystal
+  - tip_text
+  - boss
+  - action
+  - respawn_items
+  - sale
+  - precious
+  - gbl
+  - witchy_ground
+  - trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - not_walk
+  - ground
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: thunderstone_discharge_6
+  m_Rect:
+    serializedVersion: 2
+    x: 176.07613
+    y: 541.0761
+    width: 76.88759
+    height: 80.91097
+  m_Offset: {x: -22.51992, y: -5.5315976}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.2071059, y: 0.43163353}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    683e8ed526463744ebdafc07c25728a8: 21300012
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 866b6f5aee4e8484da7e5262fc7e94e9, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 66
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 17
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 02000f000900100009000f000a00090010000a00100008000f0008001000070008000f00020007000f000000070002000600070000000400060000000e000d0005000c0005000d000b0005000c00090005000b000800050009000a0008000900070005000800060005000700040005000600000003000400050004000300020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 17
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 340
+      _typelessdata: 713d0a3f7b142e3e000000000000000000000000713d0a3f5c8f423e0000000000000000000000005c8f023fcdcc4c3e000000000000000000000000f6281c3fcdcccc3d000000000000000000000000cdcc0c3f8fc2753d000000000000000000000000f6281c3f3333b3be000000000000000000000000cdcc0c3f0ad723bc000000000000000000000000b81e053f0ad7a3bc000000000000000000000000d7a3f03e0ad7233c000000000000000000000000713d8a3e1f85eb3e000000000000000000000000ae47e13e7b142e3e000000000000000000000000cdcc4c3d1f85eb3e0000000000000000000000000ad723bde17a943e0000000000000000000000000ad723be295c8fbd0000000000000000000000000ad723be3333b3be0000000000000000000000008fc2f53eae47613e000000000000000000000000ae47e13eae47613e000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 176.07613
+      y: 541.0761
+      width: 76.88759
+      height: 80.91097
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 192, z: 100, w: 576}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

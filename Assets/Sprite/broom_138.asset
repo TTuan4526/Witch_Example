@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: broom_138
+  m_Rect:
+    serializedVersion: 2
+    x: 658.01294
+    y: 150
+    width: 72.83774
+    height: 48.923878
+  m_Offset: {x: 54.56819, y: 0.5380624}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 1.2491747, y: 0.51099795}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    a8d6d8e9c85bcbc4ca04f6372cacfdd0: 21300276
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 732b3e41253dd0a46a8fce16af62bcfd, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 66
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 28
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 1b0017001a0018001a0017001900180017001600150014001300140015001000140013001200100013001100100012000d00100011000e0010000d000f000e000d000c0003000a0001000a0003000b000a000100090008000600070006000800040006000700050006000400030005000400000003000400010003000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 28
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 560
+      _typelessdata: 5c8f42be295c8fbd000000000000000000000000cdcc4cbeae4761be0000000000000000000000005c8f42beec5138be0000000000000000000000001f856bbeae4761be000000000000000000000000000080be0ad723bc000000000000000000000000000080beae4761be000000000000000000000000713d8abe3d0a57be0000000000000000000000009a9999be0ad723bc00000000000000000000000052b89ebe8fc2f5bc00000000000000000000000052b89ebe0ad7a3bd000000000000000000000000ec5138be000080be0000000000000000000000005c8f42beae4761be0000000000000000000000008fc275be000080be0000000000000000000000003333b3be8fc2753e0000000000000000000000007b14aebeb81e05be0000000000000000000000007b14aebe1f856b3e00000000000000000000000085ebd1be9a9919be0000000000000000000000008fc2f5be8fc2753e00000000000000000000000014ae07bfae47613e000000000000000000000000713d0abf8fc2f53d000000000000000000000000cdcc0cbf9a9919be000000000000000000000000295c0fbf0ad7a3bc000000000000000000000000295c0fbfb81e05be0000000000000000000000000ad763bf8fc2f5bd000000000000000000000000f6285cbf0ad723be000000000000000000000000f6285cbfb81e05be0000000000000000000000000ad763bf7b142ebe000000000000000000000000c3f568bf295c0fbe000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 658.01294
+      y: 150
+      width: 72.83774
+      height: 48.923878
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 749, z: 100, w: 175}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

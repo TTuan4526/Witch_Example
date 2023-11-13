@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: boss_mushroom_pain_1
+  m_Rect:
+    serializedVersion: 2
+    x: 192.02675
+    y: 0
+    width: 73.96034
+    height: 73.92388
+  m_Offset: {x: -10.779419, y: 9.538058}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.35425407, y: 0.6290254}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    cc816b67c3571d74c85346f4352f488e: 21300002
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: c9fec42e258ec2f4ab57c0c5a2547c81, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 12
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 6
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 050004000100030001000400000001000300020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 6
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 120
+      _typelessdata: ae50933ecdcc8c3e0000000000000000000000005c98f43e7b14eebe0000000000000000000000005c98f43e1f85eb3d0000000000000000000000005c6bfabdcdcc8c3e000000000000000000000000ec4886be3333333e000000000000000000000000ec4886be7b14eebe000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 192.02675
+      y: 0
+      width: 73.96034
+      height: 73.92388
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 218.22751, z: 100, w: 46.5}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 0.40772492, y: -0.445}
+    - {x: 0.4177249, y: -0.255}
+    - {x: 0.4777249, y: 0.035}
+    - {x: 0.4777249, y: 0.074999996}
+    - {x: 0.27772492, y: 0.275}
+    - {x: 0.17772491, y: 0.275}
+    - {x: 0.14772491, y: 0.265}
+    - {x: -0.15227509, y: 0.225}
+    - {x: -0.20227508, y: 0.125}
+    - {x: -0.14227508, y: 0.044999998}
+    - {x: -0.082275085, y: -0.015}
+    - {x: -0.24227507, y: -0.105}
+    - {x: -0.26227507, y: -0.16499999}
+    - {x: -0.26227507, y: -0.33499998}
+    - {x: -0.20227508, y: -0.45499998}
+    - {x: -0.17227508, y: -0.465}
+    - {x: 0.40772492, y: -0.465}
+  - - {x: 0.1877249, y: -0.085}
+    - {x: 0.19772491, y: -0.095}

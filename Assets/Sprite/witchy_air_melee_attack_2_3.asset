@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: witchy_air_melee_attack_2_3
+  m_Rect:
+    serializedVersion: 2
+    x: 15.07612
+    y: 119.07612
+    width: 65.87257
+    height: 51.92388
+  m_Offset: {x: -7.012403, y: -2.5380585}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.39354593, y: 0.45111963}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    8e48be2bc2f29fc4c8a2acbbeb0fc60e: 21300006
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: c375d3c9c5be4544198573b689369923, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 45
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 17
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 10000f000d000e000d000f0001000d000e0002000d0001000c000d00020005000c0002000a000c00050003000a0005000b000a00030006000a000b0009000a000600070009000600080007000600050004000300020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 17
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 340
+      _typelessdata: 7b142e3ee17a143e0000000000000000000000000ad7a33c85eb913e000000000000000000000000b81e053e1f85ebbd0000000000000000000000005c8f423eb81e853d0000000000000000000000007b142e3eec51383d000000000000000000000000ec51383e8fc2753c0000000000000000000000005c8fc23eae47613d000000000000000000000000cdcccc3e7b14aebd000000000000000000000000cdcccc3e0ad7a3bb000000000000000000000000a470bd3e1f85ebbd00000000000000000000000052b89e3ec3f528be000000000000000000000000295c8f3e9a99993d0000000000000000000000007b142e3ed7a370be0000000000000000000000000ad7a3bdd7a370be000000000000000000000000b81e05be85eb913e000000000000000000000000b81e85be8fc2753c000000000000000000000000b81e85be52b81ebe000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 15.07612
+      y: 119.07612
+      width: 65.87257
+      height: 51.92388
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 41, z: 100, w: 142.5}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

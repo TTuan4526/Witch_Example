@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: goblin_frost_magic_circle_11
+  m_Rect:
+    serializedVersion: 2
+    x: 1431.0762
+    y: 142.07613
+    width: 79.84776
+    height: 62.897133
+  m_Offset: {x: 0.9999474, y: 18.47531}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.5125232, y: 0.7937385}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    dda05e9662d7a2e4e91a691e4b0c4191: 21300022
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 97d3947bc9cb6ef4b9704ca39077a14c, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 75
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 22
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 1500050010001400100005000300140005000200100014001200100002000000120002001300100012000f00100013000e00110000001200000011000f0011000e0010000f000e000d000c000b0008000b000c0007000b00080009000b0007000400090007000a0009000400080000000700060007000000030006000000040006000300050004000300010003000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 22
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 440
+      _typelessdata: ae47613eb81e053e000000000000000000000000295c8f3d52b89ebe000000000000000000000000cdcccc3da470bdbe000000000000000000000000ec51b8bd0ad7a3be0000000000000000000000008fc2f5bd6666e6be000000000000000000000000ec51b8bd8fc2f5be0000000000000000000000000ad723be85ebd1be000000000000000000000000e17a94be6666e6be0000000000000000000000003333b3beb81e053e000000000000000000000000b81e05be000000bf000000000000000000000000ae47e1bd8fc2f5be00000000000000000000000014aec7be000000bf00000000000000000000000085ebd1be0ad7a33c00000000000000000000000085ebd1becdccccbe00000000000000000000000014aec73e295c8f3d000000000000000000000000713d8a3e9a9999be00000000000000000000000014aec73e000000bf0000000000000000000000001f856b3e9a9999be0000000000000000000000001f856b3e7b14aebe000000000000000000000000713d8a3e7b14aebe0000000000000000000000000ad7a3bc3d0ad7be000000000000000000000000ec51b8bd000000bf000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 1431.0762
+      y: 142.07613
+      width: 79.84776
+      height: 62.897133
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 1472, z: 100, w: 192}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

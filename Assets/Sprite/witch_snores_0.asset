@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: witch_snores_0
+  m_Rect:
+    serializedVersion: 2
+    x: 14.07612
+    y: 10.07612
+    width: 59.847763
+    height: 45.847755
+  m_Offset: {x: -19.040003, y: -8.599998}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.1818594, y: 0.3124227}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    98ac5bbdfbd1bf545bb5bf45be9f1f78: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: e92c27ff20735734d93103f478975e89, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 72
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 27
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 1a00190017001800170019001400170018001500170014001600150014001100040001001300120010000400100012001100100004000100100011000c00100001000f0010000c000e000f000c000d000e000c000a000d000c0009000a000c000b000a000900080007000600050006000700040006000500030004000500010004000300000001000300020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 27
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 540
+      _typelessdata: 7109f93caaf1523e000000000000000000000000ec1da73c0681153e0000000000000000000000007109f93c77be1f3e000000000000000000000000cd642a3c8c6c673e00000000000000000000000052b8d13996430b3e000000000000000000000000ae7bf2bc8c6c673e000000000000000000000000ae7bf2bc96430b3e0000000000000000000000005c294bbdaaf1523e0000000000000000000000005c294bbd77be1f3e000000000000000000000000b615fb3e032b873d00000000000000000000000045d8f03ebc7413be000000000000000000000000b615fb3eb6f3fdbd000000000000000000000000ac3ed73e0681153e0000000000000000000000006c2b763ebc7413be00000000000000000000000005c50f3e4c3709be0000000000000000000000004894f63dbc7413be0000000000000000000000000066773dbc7413be000000000000000000000000cd642a3c96430b3e000000000000000000000000f675e0bdc520b03d000000000000000000000000f675e0bd6e1283bd0000000000000000000000009a3322bdc1caa13e000000000000000000000000ae7bf2bc6de77b3e000000000000000000000000ae7bf2bc508d973e0000000000000000000000001f1f74bdfca9713e000000000000000000000000718a8ebdc1caa13e0000000000000000000000003380b7bd08ac9c3e0000000000000000000000003380b7bd2731883e000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 14.07612
+      y: 10.07612
+      width: 59.847763
+      height: 45.847755
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 24.96, z: 100, w: 24.4}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: skull_spin_spin_4
+  m_Rect:
+    serializedVersion: 2
+    x: 1101.0762
+    y: 46.026752
+    width: 105.847755
+    height: 109.897125
+  m_Offset: {x: -2.00005, y: 27.024689}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.48110446, y: 0.745909}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    f474d4414e37df345a28834570715428: 21300008
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: f8d319e6085f40941b21db70dc4f488d, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 90
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 25
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 100013000f0017000f0013000e000f0017001300180017000500170018000e001700050016001500140012001400150010001400120013001000120010000d001100080011000d0006000d0010000f00060010000e0006000f00050006000e00030008000d000c000800030001000c0003000b0008000c00020008000b000000080002000a0008000000070008000a00090008000700000004000500060005000400030004000000010003000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 25
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 500
+      _typelessdata: 5c8fc23e295c8f3e000000000000000000000000cdcc4c3eb81e05bf000000000000000000000000ae47613e5c8f02bf0000000000000000000000009a9919be295c0fbf0000000000000000000000005c8f42be14ae07bf000000000000000000000000000080be295c8f3e0000000000000000000000005c8f42be9a9919bf000000000000000000000000cdcc0c3fcdcc4c3d00000000000000000000000014ae073f85eb51bf000000000000000000000000cdcc0c3f48e13abf0000000000000000000000006666e63eb81e853e0000000000000000000000003d0a573eb81e05bf0000000000000000000000003d0a573e9a9919bf000000000000000000000000ec5138bef6281cbf000000000000000000000000f628dcbee17a94be000000000000000000000000f628dcbec3f5a8be0000000000000000000000006666e6be7b14aebe0000000000000000000000006666e6be85eb51bf0000000000000000000000001f85ebbe713d8abe0000000000000000000000006666e6be713d8abe00000000000000000000000048e1fabe3333b3be0000000000000000000000005c8f02bf0ad7a3be0000000000000000000000005c8f02bfc3f5a8be000000000000000000000000ae47e1be713d8abe0000000000000000000000006666e6be8fc2753d000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 1101.0762
+      y: 46.026752
+      width: 105.847755
+      height: 109.897125
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 1152, z: 100, w: 128}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []
